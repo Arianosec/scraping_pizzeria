@@ -54,7 +54,7 @@ def get_data():
                 print(ex)
                 print("Мда...Походу ошибка...")
 
-        with open("data/position_list_result.json", "a", encoding="utf-8") as file:
+        with open("position_list_result.json", "a", encoding="utf-8") as file:
             json.dump(position_list_result, file, indent=4, ensure_ascii=False)
         print(position_list_result)
 
