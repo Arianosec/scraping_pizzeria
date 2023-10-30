@@ -1,0 +1,3261 @@
+[
+    {
+        "Position name": "Добрый Апельсин 0,33л",
+        "Position description": "Напиток сильно газированный Добрый Апельсин – оригинальный вкус в новой упаковке.",
+        "Position price": "70руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/732.jpg"
+    },
+    {
+        "Position name": "Добрый Cola 0,33л",
+        "Position description": "Напиток сильно газированный Добрый Cola – оригинальный вкус в новой упаковке.",
+        "Position price": "70руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/731.jpg"
+    },
+    {
+        "Position name": "Биг Тейси Огурец Чизбургер",
+        "Position description": "Нежная булочка с кунжутом , Большая говяжья котлета приготовленная по авторскому рецепту на гриле, Соус «Гриль»(соус как в \"Биг Тести\"), Ломтик сыра «Чеддер», Огурчики маринованные, Помидоры, Салат \"Айсберг\".",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/730.jpg"
+    },
+    {
+        "Position name": "Биг Тейси Острый Чизбургер",
+        "Position description": "Нежная булочка с кунжутом , Большая говяжья котлета приготовленная по авторскому рецепту на гриле, Соус «Гриль»(соус как в \"Биг Тести\"), Ломтик сыра «Чеддер», Халапеньо, Помидоры, Салат \"Айсберг\".",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/729.jpg"
+    },
+    {
+        "Position name": "Биг Тейси Лук Чизбургер",
+        "Position description": "Нежная булочка с кунжутом , Большая говяжья котлета приготовленная по авторскому рецепту на гриле, Соус «Гриль»(соус как в \"Биг Тести\"), Ломтик сыра «Чеддер», Лук фиолетовый маринованный в лимоне, Помидоры, Салат \"Айсберг\".",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/728.jpg"
+    },
+    {
+        "Position name": "Биг Тейси 2-й Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Две Большие говяжьи котлеты приготовленные на гриле по авторскому рецепту, Соус «Гриль»(соус как в \"Биг Тести\"), Два ломтика сыра «Чеддер», Помидоры, Салат «Айсберг».",
+        "Position price": "420руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/727.jpg"
+    },
+    {
+        "Position name": "Биг Тейси Чизбургер",
+        "Position description": "Нежная булочка с кунжутом , Большая говяжья котлета приготовленная по авторскому рецепту на гриле, Соус «Гриль»(соус как в \"Биг Тести\"), Ломтик сыра «Чеддер», Помидоры, Салат \"Айсберг\".",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/726.jpg"
+    },
+    {
+        "Position name": "Чикен Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Большая куриная котлета приготовленная на гриле по авторскому рецепту, Ломтик сыра «Чеддер», Соус «Бургерный», Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/725.jpg"
+    },
+    {
+        "Position name": "Чикен Бургер",
+        "Position description": "Нежная булочка с кунжутом, Большая куриная котлета приготовленная на гриле по авторскому рецепту, Соус «Бургерный», Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "285руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/724.jpg"
+    },
+    {
+        "Position name": "Неополитано 2-й Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Две Большие говяжьи котлеты приготовленные на гриле по авторскому рецепту, Соус «Бургерный», Два ломтика сыра «Чеддер», Лук фиолетовый маринованный в лимоне, Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "420руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/723.jpg"
+    },
+    {
+        "Position name": "Неополитано Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Ломтик сыра «Чеддер», Соус «Бургерный», Лук фиолетовый маринованный в лимоне, Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/722.jpg"
+    },
+    {
+        "Position name": "Неополитано Бургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Соус «Бургерный», Лук фиолетовый маринованный в лимоне, Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "285руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/721.jpg"
+    },
+    {
+        "Position name": "Рус Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Ломтик сыра «Чеддер», Соус «Белый», Фиолетовый лук маринованный в лимоне, Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/720.jpg"
+    },
+    {
+        "Position name": "Рус Бургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Соус «Белый», Фиолетовый лук маринованный в лимоне, Огурчики маринованные, Помидоры, Салат «Айсберг».",
+        "Position price": "285руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/719.jpg"
+    },
+    {
+        "Position name": "Американ 2-й Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Две Большие говяжьи котлеты приготовленные на гриле по авторскому рецепту, Соус «Красный», Два ломтика сыра «Чеддер», Помидоры, Салат «Айсберг».",
+        "Position price": "420руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/718.jpg"
+    },
+    {
+        "Position name": "Американ Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Соус «Красный», Ломтик сыра «Чеддер», Помидоры, Салат «Айсберг».",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/717.jpg"
+    },
+    {
+        "Position name": "Американ Бургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Соус «Красный», Помидоры, Салат «Айсберг».",
+        "Position price": "285руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/716.jpg"
+    },
+    {
+        "Position name": "Мастер 2-й Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Две Большие говяжьи котлеты приготовленные на гриле по авторскому рецепту, Соус «Белый», Два ломтика сыра «Чеддер», Помидоры, Салат «Айсберг».",
+        "Position price": "420руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/715.jpg"
+    },
+    {
+        "Position name": "Мастер Чизбургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Соус «Белый», Ломтик сыра «Чеддер», Помидоры, Салат «Айсберг».",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/714.jpg"
+    },
+    {
+        "Position name": "Мастер Бургер",
+        "Position description": "Нежная булочка с кунжутом, Большая говяжья котлета приготовленная на гриле по авторскому рецепту, Соус «Белый», Помидоры, Салат «Айсберг».",
+        "Position price": "285руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/713.jpg"
+    },
+    {
+        "Position name": "Лайт Биг Тейси Чизбургер",
+        "Position description": "Нежная булочка с кунжутом , Куриная котлета приготовленная по авторскому рецепту на гриле, Соус «Гриль»(соус, который используется в приготовлении \"Биг Тести\"), Ломтик сыра «Чеддер», Помидоры, Салат \"Айсберг\".",
+        "Position price": "295руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/712.jpg"
+    },
+    {
+        "Position name": "Лайт Вайт Бургер",
+        "Position description": "Нежная булочка с кунжутом , Куриная котлета приготовленная по авторскому рецепту на гриле, Соус «Белый», Помидоры, Салат \"Айсберг\".",
+        "Position price": "200руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/711.jpg"
+    },
+    {
+        "Position name": "Лайт Ред Бургер",
+        "Position description": "Нежная булочка с кунжутом , Куриная котлета приготовленная по авторскому рецепту на гриле, Соус «Мастер», Помидоры, Салат \"Айсберг\".",
+        "Position price": "200руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/710.jpg"
+    },
+    {
+        "Position name": "Добрый Fanta 1л",
+        "Position description": "Напиток сильно газированный Добрый Fanta – оригинальный вкус в новой упаковке.",
+        "Position price": "100руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/709.jpg"
+    },
+    {
+        "Position name": "Добрый Cola 1л",
+        "Position description": "Напиток сильно газированный Добрый Cola – оригинальный вкус в новой упаковке.",
+        "Position price": "100руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/708.jpg"
+    },
+    {
+        "Position name": "Flash up Energy 0,45л",
+        "Position description": "Напиток энергетический ФЛЭШ АП Energy с кофеином и таурином газированный, 0.45л",
+        "Position price": "90руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/706.jpg"
+    },
+    {
+        "Position name": "Adrenaline Rush 0,45л",
+        "Position description": "Энергетический напиток, специально созданный для борьбы с усталостью.",
+        "Position price": "130руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/705.jpg"
+    },
+    {
+        "Position name": "Вода 1,5л не газ",
+        "Position description": "Вода минеральная не газированная в пластиковой бутылке.",
+        "Position price": "60руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/702.jpg"
+    },
+    {
+        "Position name": "Вода 1,5л газ",
+        "Position description": "Вода минеральная газированная в пластиковой бутылке.",
+        "Position price": "60руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/701.jpg"
+    },
+    {
+        "Position name": "Вода 0,5л не газ",
+        "Position description": "Вода минеральная не газированная в пластиковой бутылке.",
+        "Position price": "40руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/7/700.jpg"
+    },
+    {
+        "Position name": "Вода 0,5л газ",
+        "Position description": "Вода минеральная газированная в пластиковой бутылке.",
+        "Position price": "40руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/699.jpg"
+    },
+    {
+        "Position name": "Кока-Кола 2л",
+        "Position description": "Напиток оригинальный газированный в пластиковой бутылке.",
+        "Position price": "200руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/697.jpg"
+    },
+    {
+        "Position name": "МИНИ-10",
+        "Position description": "«КОРСИКА ЛАЙТ» 30см + «ФЛОРЕНЦИЯ ЛАЙТ» 30см + «ПЕППЕРОНИ ЛАЙТ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/687.jpg"
+    },
+    {
+        "Position name": "МИНИ-9",
+        "Position description": "«ГАННОВЕРСКАЯ ЛАЙТ» 30см + «ДАЧНАЯ ЛАЙТ» 30см + «КАЛИФОРНИЯ ЛАЙТ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/686.jpg"
+    },
+    {
+        "Position name": "МИНИ-8",
+        "Position description": "«ОСТРАЯ ЛАЙТ» 30см + «БАРБЕКЮ ОСТРАЯ ЛАЙТ» 30см + «ЧИЗБУРГЕР ЛАЙТ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/685.jpg"
+    },
+    {
+        "Position name": "МИНИ-7",
+        "Position description": "«ЕВРОПЕЙСКАЯ ЛАЙТ» 30см + «НЕЖНОСТЬ ЛАЙТ» 30см + «ВЕНЕЦИЯ ЛАЙТ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/684.jpg"
+    },
+    {
+        "Position name": "МИНИ-6",
+        "Position description": "«МАСТЕР ЛАЙТ» 30см + «МАРГАРИТА ЛАЙТ» 30см + «ПЕППЕРОНИ ЛАЙТ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/683.jpg"
+    },
+    {
+        "Position name": "МАКСИ-10",
+        "Position description": "«КОРСИКА ЛАЙТ» 40см + «ФЛОРЕНЦИЯ ЛАЙТ» 40см + «ПЕППЕРОНИ ЛАЙТ» 40см",
+        "Position price": "1950руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/682.jpg"
+    },
+    {
+        "Position name": "МАКСИ-9",
+        "Position description": "«ГАННОВЕРСКАЯ ЛАЙТ» 40см + «ДАЧНАЯ ЛАЙТ» 40см + «КАЛИФОРНИЯ ЛАЙТ» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/681.jpg"
+    },
+    {
+        "Position name": "МАКСИ-8",
+        "Position description": "«ОСТРАЯ ЛАЙТ» 40см + «БАРБЕКЮ ОСТРАЯ ЛАЙТ» 40см + «ЧИЗБУРГЕР ЛАЙТ» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/680.jpg"
+    }
+][
+    {
+        "Position name": "МАКСИ-7",
+        "Position description": "«ЕВРОПЕЙСКАЯ ЛАЙТ» 40см + «НЕЖНОСТЬ ЛАЙТ» 40см + «ВЕНЕЦИЯ ЛАЙТ» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/679.jpg"
+    },
+    {
+        "Position name": "МАКСИ-6",
+        "Position description": "«МАСТЕР ЛАЙТ» 40см + «МАРГАРИТА ЛАЙТ» 40см + «ПЕППЕРОНИ ЛАЙТ» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/678.jpg"
+    },
+    {
+        "Position name": "ТРИО-10",
+        "Position description": "«КОРСИКА ЛАЙТ» 30см + «ФЛОРЕНЦИЯ ЛАЙТ» 40см + «ПЕППЕРОНИ ЛАЙТ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/677.jpg"
+    },
+    {
+        "Position name": "ТРИО-9",
+        "Position description": "«ГАННОВЕРСКАЯ ЛАЙТ» 40см + «ДАЧНАЯ ЛАЙТ» 30см + «КАЛИФОРНИЯ ЛАЙТ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/676.jpg"
+    },
+    {
+        "Position name": "ТРИО-8",
+        "Position description": "«ОСТРАЯ ЛАЙТ» 40см + «БАРБЕКЮ ОСТРАЯ ЛАЙТ» 30см + «ЧИЗБУРГЕР ЛАЙТ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/675.jpg"
+    },
+    {
+        "Position name": "ТРИО-7",
+        "Position description": "«ЕВРОПЕЙСКАЯ ЛАЙТ» 40см + «НЕЖНОСТЬ ЛАЙТ» 30см + «ВЕНЕЦИЯ ЛАЙТ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/674.jpg"
+    },
+    {
+        "Position name": "ТРИО-6",
+        "Position description": "«МАСТЕР ЛАЙТ» 40см + «МАРГАРИТА ЛАЙТ» 30см + «ПЕППЕРОНИ ЛАЙТ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/673.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю Острая 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/672.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/671.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер Огурец 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/670.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/669.jpg"
+    },
+    {
+        "Position name": "Пицца Деревенская 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/668.jpg"
+    },
+    {
+        "Position name": "Пицца Дачная 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/667.jpg"
+    },
+    {
+        "Position name": "Пицца Жар Птица 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/666.jpg"
+    },
+    {
+        "Position name": "Пицца Европейская 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/665.jpg"
+    },
+    {
+        "Position name": "Пицца Домашняя 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/664.jpg"
+    },
+    {
+        "Position name": "Пицца Казачья 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/663.jpg"
+    },
+    {
+        "Position name": "Пицца Ганноверская 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/662.jpg"
+    },
+    {
+        "Position name": "Пицца Корсика 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/661.jpg"
+    },
+    {
+        "Position name": "Пицца Карбонара 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/660.jpg"
+    },
+    {
+        "Position name": "Пицца Калифорния 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/659.jpg"
+    },
+    {
+        "Position name": "Пицца Гавайская 30см Лайт",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/658.jpg"
+    },
+    {
+        "Position name": "Пицца Восточная 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/657.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Помидоры 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/656.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Грибы 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/655.jpg"
+    },
+    {
+        "Position name": "Пицца Фермерская 30 см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/654.jpg"
+    },
+    {
+        "Position name": "Пицца Тропическая 30см Лайт",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/653.jpg"
+    },
+    {
+        "Position name": "Пицца Флоренция 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/652.jpg"
+    },
+    {
+        "Position name": "Пицца Венеция 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/651.jpg"
+    },
+    {
+        "Position name": "Пицца Пикантная 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/650.jpg"
+    },
+    {
+        "Position name": "Пицца Римские Каникулы 30см Лайт",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/649.jpg"
+    },
+    {
+        "Position name": "Пицца Вегетарианская 30см Лайт",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/648.jpg"
+    },
+    {
+        "Position name": "Пицца Маргарита 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/647.jpg"
+    },
+    {
+        "Position name": "Пицца Сырная 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/646.jpg"
+    },
+    {
+        "Position name": "Пицца Мастер и Маргарита 30см Лайт",
+        "Position description": "(50% Мастер и 50% Маргарита)  Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/645.jpg"
+    },
+    {
+        "Position name": "Пицца МАСТЕР 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/644.jpg"
+    },
+    {
+        "Position name": "Пицца Морепродукты 30см Лайт",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/643.jpg"
+    },
+    {
+        "Position name": "Пицца Любовь-Морковь 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/642.jpg"
+    },
+    {
+        "Position name": "Пицца Летучая Рыба 30см Лайт",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "720руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/641.jpg"
+    },
+    {
+        "Position name": "Пицца Мясная 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/640.jpg"
+    }
+][
+    {
+        "Position name": "Пицца Пепперони 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/639.jpg"
+    },
+    {
+        "Position name": "Пицца Острая 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/638.jpg"
+    },
+    {
+        "Position name": "Пицца Нежность 30см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/637.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю Острая 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/636.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/635.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер Огурец 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/634.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/633.jpg"
+    },
+    {
+        "Position name": "Пицца Деревенская 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/632.jpg"
+    },
+    {
+        "Position name": "Пицца Дачная 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/631.jpg"
+    },
+    {
+        "Position name": "Пицца Жар Птица 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/630.jpg"
+    },
+    {
+        "Position name": "Пицца Европейская 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/629.jpg"
+    },
+    {
+        "Position name": "Пицца Домашняя 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/628.jpg"
+    },
+    {
+        "Position name": "Пицца Казачья 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/626.jpg"
+    },
+    {
+        "Position name": "Пицца Ганноверская 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/625.jpg"
+    },
+    {
+        "Position name": "Пицца Корсика 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/624.jpg"
+    },
+    {
+        "Position name": "Пицца Карбонара 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/623.jpg"
+    },
+    {
+        "Position name": "Пицца Калифорния 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/622.jpg"
+    },
+    {
+        "Position name": "Пицца Гавайская 40см Лайт",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/621.jpg"
+    },
+    {
+        "Position name": "Пицца Восточная 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/620.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Помидоры 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/619.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Грибы 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/618.jpg"
+    },
+    {
+        "Position name": "Пицца Фермерская 40 см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/617.jpg"
+    },
+    {
+        "Position name": "Пицца Тропическая 40см Лайт",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/616.jpg"
+    },
+    {
+        "Position name": "Пицца Флоренция 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/615.jpg"
+    },
+    {
+        "Position name": "Пицца Венеция 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/614.jpg"
+    },
+    {
+        "Position name": "Пицца Пикантная 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/613.jpg"
+    },
+    {
+        "Position name": "Пицца Римские Каникулы 40см Лайт",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/612.jpg"
+    },
+    {
+        "Position name": "Пицца Вегетарианская 40см Лайт",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/611.jpg"
+    },
+    {
+        "Position name": "Пицца Маргарита 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/610.jpg"
+    },
+    {
+        "Position name": "Пицца Сырная 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/609.jpg"
+    },
+    {
+        "Position name": "Пицца Мастер и Маргарита 40см Лайт",
+        "Position description": "(50% Мастер и 50% Маргарита)  Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/608.jpg"
+    },
+    {
+        "Position name": "Пицца МАСТЕР 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/607.jpg"
+    },
+    {
+        "Position name": "Пицца Морепродукты 40см Лайт",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/606.jpg"
+    },
+    {
+        "Position name": "Пицца Любовь-Морковь 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/605.jpg"
+    },
+    {
+        "Position name": "Пицца Летучая Рыба 40см Лайт",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/604.jpg"
+    },
+    {
+        "Position name": "Пицца Мясная 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/603.jpg"
+    },
+    {
+        "Position name": "Пицца Пепперони 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/602.jpg"
+    },
+    {
+        "Position name": "Пицца Острая 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/601.jpg"
+    },
+    {
+        "Position name": "Пицца Нежность 40см Лайт",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/6/600.jpg"
+    },
+    {
+        "Position name": "Яблоко-Вишня Сок 0,2л",
+        "Position description": "Яблоко-Вишня Сок 0,2л. Заводская упаковка.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/586.jpg"
+    }
+][
+    {
+        "Position name": "Мультифрукт Сок 0,2л",
+        "Position description": "Мультифрукт Сок 0,2л. Заводская упаковка.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/585.jpg"
+    },
+    {
+        "Position name": "Яблоко Сок 0,2л",
+        "Position description": "Яблочный сок 0,2л. Заводская упаковка.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/584.jpg"
+    },
+    {
+        "Position name": "Апельсин 1,5л",
+        "Position description": "Газированный напиток Апельсин 1,5л в пластиковой бутылке.",
+        "Position price": "80руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/579.jpg"
+    },
+    {
+        "Position name": "ТРИО-5",
+        "Position description": "«ЛУИЗА» 30см + «ТОРОНТО» 40см + «ЛУЧАНО ПЕППЕРОНИ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/578.jpg"
+    },
+    {
+        "Position name": "ТРИО-4",
+        "Position description": "«МАЛИБУ» 40см + «ЧИКАГО» 30см + «ФИЕСТА» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/577.jpg"
+    },
+    {
+        "Position name": "МИНИ-5",
+        "Position description": "«ЛУИЗА» 30см + «ТОРОНТО» 30см + «ЛУЧАНО ПЕППЕРОНИ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/576.jpg"
+    },
+    {
+        "Position name": "МИНИ-4",
+        "Position description": "«МАЛИБУ» 30см + «ЧИКАГО» 30см + «ФИЕСТА» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/575.jpg"
+    },
+    {
+        "Position name": "МИНИ-3",
+        "Position description": "«МАЛИБУ» 30см + «ТОРОНТО» 30см + «ВЕРОНА» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/574.jpg"
+    },
+    {
+        "Position name": "МИНИ-2",
+        "Position description": "«ЛУИЗА» 30см + «ЧИКАГО» 30см + «МИЛАН» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/573.jpg"
+    },
+    {
+        "Position name": "МИНИ-1",
+        "Position description": "«ПОЛО» 30см + «ФИЕСТА» 30см + «ЛУЧАНО ПЕППЕРОНИ» 30см",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/572.jpg"
+    },
+    {
+        "Position name": "МАКСИ-5",
+        "Position description": "«ЛУИЗА» 40см + «ТОРОНТО» 40см + «ЛУЧАНО ПЕППЕРОНИ» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/571.jpg"
+    },
+    {
+        "Position name": "МАКСИ-4",
+        "Position description": "«МАЛИБУ» 40см + «ЧИКАГО» 40см + «ФИЕСТА» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/570.jpg"
+    },
+    {
+        "Position name": "МАКСИ-3",
+        "Position description": "«МАЛИБУ» 40см + «ТОРОНТО» 40см + «ВЕРОНА» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/569.jpg"
+    },
+    {
+        "Position name": "МАКСИ-2",
+        "Position description": "«ЛУИЗА» 40см + «ЧИКАГО» 40см + «МИЛАН» 40см",
+        "Position price": "2450руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/568.jpg"
+    },
+    {
+        "Position name": "МАКСИ-1",
+        "Position description": "«ПОЛО» 40см + «ФИЕСТА» 40см + «ЛУЧАНО ПЕППЕРОНИ» 40см",
+        "Position price": "2490руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/567.jpg"
+    },
+    {
+        "Position name": "СЕТ Мужской Аппетит",
+        "Position description": "32шт. Дели, Гавана, Ницца, Босфор. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1050руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/566.jpg"
+    },
+    {
+        "Position name": "СЕТ Завтрак Акулы",
+        "Position description": "48шт. Ванкувер, Париж, Сидней, Майами, Сомали, Марсель. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1550руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/564.jpg"
+    },
+    {
+        "Position name": "СЕТ Голодный Боцман",
+        "Position description": "40шт. Ванкувер, Афина, Босфор, Майами, Сомали. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1310руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/563.jpg"
+    },
+    {
+        "Position name": "СЕТ Счастливый Юнга",
+        "Position description": "32шт. Афина, Майами, Ницца, Монако. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1050руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/562.jpg"
+    },
+    {
+        "Position name": "СЕТ Сытая Панда",
+        "Position description": "32шт. Париж, Дублин, Майами, Сомали. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1050руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/561.jpg"
+    },
+    {
+        "Position name": "Сет Летний",
+        "Position description": "40шт. Монако, Босфор, Майами, Сомали, Марсель. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1350руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/560.jpg"
+    },
+    {
+        "Position name": "СЕТ Весенний",
+        "Position description": "32шт. Ницца, Монако, Босфор, Майами. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/559.jpg"
+    },
+    {
+        "Position name": "СЕТ Осенний",
+        "Position description": "32шт. Монако, Майами, Сомали, Марсель. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1050руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/558.jpg"
+    },
+    {
+        "Position name": "СЕТ Сердце Дракона",
+        "Position description": "48шт. Ницца, Монако, Босфор, Майами, Сомали, Марсель. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/557.jpg"
+    },
+    {
+        "Position name": "СЕТ Белый Флагман",
+        "Position description": "72шт. Ванкувер, Париж, Сидней, Дели, Афина, Гавана, Дублин, Ибица, Пекин.(Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "2270руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/556.jpg"
+    },
+    {
+        "Position name": "Манчестер Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, СЫР СЛИВОЧНЫЙ, МАСЛЯНАЯ РЫБА, ОГУРЕЦ. ШАПКА: ЛОСОСЬ, ИКРА МАСАГО, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/554.jpg"
+    },
+    {
+        "Position name": "Фиш Темпура Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, МАСЛЯНАЯ РЫБА ТЕМПУРА, ОГУРЕЦ, СЫР \"ЧЕДДЕР. С набором для роллов!",
+        "Position price": "340руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/553.jpg"
+    },
+    {
+        "Position name": "Снек Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, КУРОЧКА КОПЧЕНАЯ, ОГУРЕЦ, ЧИПСЫ КАРТОФЕЛЬНЫЕ. С набором для роллов!",
+        "Position price": "280руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/552.jpg"
+    },
+    {
+        "Position name": "Тори Роллы",
+        "Position description": "6шт РИС, НОРИ, МАСЛЯНАЯ РЫБА. С набором для роллов!",
+        "Position price": "260руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/551.jpg"
+    },
+    {
+        "Position name": "половинка Барбекю Острая 40см",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/550.jpg"
+    },
+    {
+        "Position name": "Половинка Барбекю 40см",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/549.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю Острая 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/548.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/547.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю Острая 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/544.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/543.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю Острая 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/542.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/541.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю Острая 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Халапеньо, Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/539.jpg"
+    },
+    {
+        "Position name": "Пицца Барбекю 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Барбекю\", Баварские колбаски, Бекон, Шампиньоны, Корнишоны маринованные.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/538.jpg"
+    },
+    {
+        "Position name": "Половинка Чизбургер Огурец 40см",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/537.jpg"
+    }
+][
+    {
+        "Position name": "Половинка Чизбургер 40см",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/536.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер Огурец 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/535.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/534.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер Огурец 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/533.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/532.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер Огурец 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/531.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/530.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер Огурец 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Огурчики маринованные.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/529.jpg"
+    },
+    {
+        "Position name": "Пицца Чизбургер 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус \"Гриль\", Говядина рубленая, Лук маринованный, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/528.jpg"
+    },
+    {
+        "Position name": "Доставка 200р СИНЯЯ ЗОНА",
+        "Position description": "Доставка по СИНЕЙ ЗОНЕ.",
+        "Position price": "200руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/517.jpg"
+    },
+    {
+        "Position name": "Соус Heinz Кисло-Сладкий 25г",
+        "Position description": "Соус Heinz Кисло-Сладкий 25г (заводская упаковка)",
+        "Position price": "35руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/516.jpg"
+    },
+    {
+        "Position name": "Соус Heinz Сырный 25г",
+        "Position description": "Соус Heinz Сырный 25г",
+        "Position price": "35руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/512.jpg"
+    },
+    {
+        "Position name": "Торт \"Наполеон\"",
+        "Position description": "Воздушный слоеный торт.",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/509.jpg"
+    },
+    {
+        "Position name": "Торт \"Чизкейк\"",
+        "Position description": "Творожный торт Чизкейк",
+        "Position price": "120руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/508.jpg"
+    },
+    {
+        "Position name": "Салат \"Летний\"",
+        "Position description": "Огурец, болгарский перец, помидор, пекинская капуста, сок лимона, масло подсол.",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/506.jpg"
+    },
+    {
+        "Position name": "Салат \"Крабовый\"",
+        "Position description": "Яйцо, кукуруза, крабовые палочки, майонез, огурчики свежие.",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/505.jpg"
+    },
+    {
+        "Position name": "Салат \"Цезарь\"",
+        "Position description": "Куриное филе, Cалат \"Айсберг\", Помидоры, Яйцо, Сыр Моцарелла, Сухарики, Соус \"Цезарь\".",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/504.jpg"
+    },
+    {
+        "Position name": "Салат \"Гавайский\"",
+        "Position description": "Яйцо, ананас, помидор, сыр, майонез, куриное филе.",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/503.jpg"
+    },
+    {
+        "Position name": "Доставка 250р КРАСНАЯ ЗОНА",
+        "Position description": "Доставка по КРАСНОЙ ЗОНЕ.",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/502.jpg"
+    },
+    {
+        "Position name": "Доставка 150р ОРАНЖЕВАЯ ЗОНА",
+        "Position description": "Доставка по ОРАНЖЕВОЙ ЗОНЕ.",
+        "Position price": "150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/501.jpg"
+    },
+    {
+        "Position name": "Доставка 100р ФИОЛЕТОВАЯ ЗОНА",
+        "Position description": "Доставка по ФИОЛЕТОВОЙ ЗОНЕ.",
+        "Position price": "100руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/5/500.jpg"
+    },
+    {
+        "Position name": "Доставка 50р ЖЕЛТАЯ ЗОНА",
+        "Position description": "Доставка по ЖЕЛТОЙ ЗОНЕ.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/499.jpg"
+    },
+    {
+        "Position name": "Картофельные Дольки",
+        "Position description": "Картофельные дольки 150г",
+        "Position price": "150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/498.jpg"
+    },
+    {
+        "Position name": "ТРИО-3",
+        "Position description": "«МАЛИБУ» 40см + «ТОРОНТО» 30см + «ВЕРОНА» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/459.jpg"
+    },
+    {
+        "Position name": "ТРИО-2",
+        "Position description": "«ЛУИЗА» 40см + «ЧИКАГО» 30см + «МИЛАН» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/458.jpg"
+    },
+    {
+        "Position name": "ТРИО-1",
+        "Position description": "«ПОЛО» 40см + «ФИЕСТА» 30см + «ЛУЧАНО ПЕППЕРОНИ» 30см",
+        "Position price": "1990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/457.jpg"
+    },
+    {
+        "Position name": "Майами Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ, КУНЖУТ, СОУС УНАГИ. ШАПКА: МЯСО КРАБА (ИЗ МЯСА СУРИМИ), МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/456.jpg"
+    },
+    {
+        "Position name": "Марсель Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, ТУНЕЦ, ОГУРЕЦ, СОУС УНАГИ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/455.jpg"
+    },
+    {
+        "Position name": "Сомали Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ. ШАПКА: МЯСО КРАБА (ИЗ МЯСА СУРИМИ), ОСТРЫЙ СОУС, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/454.jpg"
+    },
+    {
+        "Position name": "Босфор Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, МЯСО КРАБА (ИЗ МЯСА СУРИМИ), СЫР СЛИВОЧНЫЙ, СОУС УНАГИ. ШАПКА: ИКРА МАСАГО, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/453.jpg"
+    },
+    {
+        "Position name": "Монако Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, КУРОЧКА КОПЧЕНАЯ, СЫР СЛИВОЧНЫЙ, КУНЖУТ. ШАПКА: ИКРА МАСАГО, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/452.jpg"
+    },
+    {
+        "Position name": "Ницца Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС,КУРОЧКА КОПЧЕНАЯ, ОГУРЕЦ, СОУС УНАГИ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ.С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/451.jpg"
+    },
+    {
+        "Position name": "Пекин Роллы",
+        "Position description": "8шт. РИС, АВОКАДО, ПЕКИНСКАЯ КАПУСТА, ОГУРЕЦ, ПОМИДОР. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/450.jpg"
+    },
+    {
+        "Position name": "Ибица Роллы",
+        "Position description": "8шт. РИС, КАЛЬМАР КОПЧЕНЫЙ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ), ОГУРЕЦ. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/449.jpg"
+    },
+    {
+        "Position name": "Дублин Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, КУНЖУТ. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/448.jpg"
+    },
+    {
+        "Position name": "Гавана Роллы",
+        "Position description": "8шт. РИС, НОРИ, ТУНЕЦ, ОГУРЕЦ, ПОМИДОР. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/447.jpg"
+    },
+    {
+        "Position name": "Афина Роллы",
+        "Position description": "8шт. РИС, НОРИ, ТУНЕЦ, ОГУРЕЦ, КУНЖУТ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/446.jpg"
+    },
+    {
+        "Position name": "Дели Роллы",
+        "Position description": "8шт. РИС, НОРИ, ТУНЕЦ, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/445.jpg"
+    },
+    {
+        "Position name": "Сидней Роллы",
+        "Position description": "8шт. РИС, НОРИ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ), КУНЖУТ, ОГУРЕЦ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/444.jpg"
+    },
+    {
+        "Position name": "Париж Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/443.jpg"
+    }
+][
+    {
+        "Position name": "Ванкувер Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, АВОКАДО. С набором для роллов!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/442.jpg"
+    },
+    {
+        "Position name": "Набор для роллов",
+        "Position description": "Васаби -15гр, Соус соевый - 50гр, Имбмрь - 30гр, Салфетки - 5шт, Палочки + зубочистка.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/441.jpg"
+    },
+    {
+        "Position name": "Салфетки 5шт",
+        "Position description": "Салфетки одноразовые - 5шт.",
+        "Position price": "3руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/440.jpg"
+    },
+    {
+        "Position name": "Палочки бамбуковые",
+        "Position description": "Палочки бамбуковые и зубочистка.",
+        "Position price": "2руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/439.jpg"
+    },
+    {
+        "Position name": "Васаби",
+        "Position description": "Васаби 15гр в контейнере.",
+        "Position price": "15руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/438.jpg"
+    },
+    {
+        "Position name": "Соевый соус",
+        "Position description": "Соевый соус 50мл в контейнере.",
+        "Position price": "15руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/437.jpg"
+    },
+    {
+        "Position name": "Имбирь",
+        "Position description": "Имбирь 30гр в контейнере.",
+        "Position price": "15руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/436.jpg"
+    },
+    {
+        "Position name": "Пицца Чикаго 30см",
+        "Position description": "Соус Мастер, Острый Соус Чили, Свинина Запеченная, Перец Острый Маринованный, Шампиньоны, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/435.jpg"
+    },
+    {
+        "Position name": "Пицца Фиеста 30см",
+        "Position description": "Соус Мастер, Сервелат, Шампиньоны, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/434.jpg"
+    },
+    {
+        "Position name": "Пицца Торонто 30см",
+        "Position description": "Соус Белый, Сервелат, Сосиски Копченные, Помидоры, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/433.jpg"
+    },
+    {
+        "Position name": "Пицца Поло 30см",
+        "Position description": "Соус Белый, Курица Копченая, Огурчики Маринованные, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/432.jpg"
+    },
+    {
+        "Position name": "Пицца Милан 30см",
+        "Position description": "Соус Мастер, Ветчина, Куриные Грудки, Морковь По-Корейски, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/431.jpg"
+    },
+    {
+        "Position name": "Пицца Малибу 30см",
+        "Position description": "Бекон, Карбонат, Шампиньоны, Помидоры, Болгарский Перец, Орегано, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/430.jpg"
+    },
+    {
+        "Position name": "Пицца Лучано пепперони 30см",
+        "Position description": "Соус Мастер, Острая Колбаска Пепперони, Помидоры, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/429.jpg"
+    },
+    {
+        "Position name": "Пицца Луиза 30см",
+        "Position description": "Соус Белый, Пепперони, Куриные Грудки, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/428.jpg"
+    },
+    {
+        "Position name": "Пицца Дары моря 30см",
+        "Position description": "Кальмар Копченый, Помидоры, Крабовое Мясо (из мяса Сурими), Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/427.jpg"
+    },
+    {
+        "Position name": "Пицца Верона 30см",
+        "Position description": "Соус Белый, Бекон, Сервелат, Карбонад, Сыр Моцарелла. (Доставка от 600руб)",
+        "Position price": "580руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/426.jpg"
+    },
+    {
+        "Position name": "Пицца Чикаго 40см",
+        "Position description": "Соус Мастер, Острый Соус Чили, Свинина Запеченная, Перец Острый Маринованный, Шампиньоны, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/425.jpg"
+    },
+    {
+        "Position name": "Пицца Фиеста 40см",
+        "Position description": "Соус Мастер, Сервелат, Шампиньоны, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/424.jpg"
+    },
+    {
+        "Position name": "Пицца Торонто 40см",
+        "Position description": "Соус Белый, Сервелат, Сосиски Копченные, Помидоры, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/423.jpg"
+    },
+    {
+        "Position name": "Пицца Поло 40см",
+        "Position description": "Соус Белый, Курица Копченая, Огурчики Маринованные, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/422.jpg"
+    },
+    {
+        "Position name": "Пицца Милан 40см",
+        "Position description": "Соус Мастер, Ветчина, Куриные Грудки, Морковь По-Корейски, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/421.jpg"
+    },
+    {
+        "Position name": "Пицца Малибу 40см",
+        "Position description": "Бекон, Карбонат, Шампиньоны, Помидоры, Болгарский Перец, Орегано, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/420.jpg"
+    },
+    {
+        "Position name": "Пицца Лучано пепперони 40см",
+        "Position description": "Соус Мастер, Острая Колбаска Пепперони, Помидоры, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/419.jpg"
+    },
+    {
+        "Position name": "Пицца Луиза 40см",
+        "Position description": "Соус Белый, Пепперони, Куриные Грудки, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/418.jpg"
+    },
+    {
+        "Position name": "Пицца Дары моря 40см",
+        "Position description": "Кальмар Копченый, Помидоры, Крабовое Мясо (из мяса Сурими), Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/417.jpg"
+    },
+    {
+        "Position name": "Пицца Верона 40см",
+        "Position description": "Соус Белый, Бекон, Сервелат, Карбонад, Сыр Моцарелла.",
+        "Position price": "830руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/416.jpg"
+    },
+    {
+        "Position name": "Комбонабор 10",
+        "Position description": "В Комбонабор 10 входит пицца 40см \"МАЛИБУ\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/415.jpg"
+    },
+    {
+        "Position name": "Комбонабор 9",
+        "Position description": "В Комбонабор 9 входит пицца 40см \"ЛУИЗА\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/414.jpg"
+    },
+    {
+        "Position name": "Венесуэла Роллы",
+        "Position description": "8шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, СЫР СЛИВОЧНЫЙ, ИКРА ТОБИКО, ОГУРЕЦ. ШАПКА: ЛОСОСЬ СВЕЖИЙ, УГОРЬ, ИКРА ТОБИКО, КУРИЦА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/413.jpg"
+    },
+    {
+        "Position name": "Дубай Роллы",
+        "Position description": "5шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ, ПОМИДОР. ШАПКА: КРАБОВОЕ МЯСО(ИЗ МЯСА СУРИМИ), МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/412.jpg"
+    },
+    {
+        "Position name": "Мюнхен Роллы",
+        "Position description": "5шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ЛОСОСЬ СЛАБОСОЛЕНЫЙ, ОГУРЕЦ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/411.jpg"
+    },
+    {
+        "Position name": "Токио Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ИКРА ТОБИКО, СЫР СЛИВОЧНЫЙ, СОУС УНАГИ. ШАПКА: УГОРЬ, КУРИЦА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/410.jpg"
+    },
+    {
+        "Position name": "Рио Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, СЫР СЛИВОЧНЫЙ, КУНЖУТ, СОУС УНАГИ. ШАПКА: УГОРЬ, КУРИЦА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/409.jpg"
+    },
+    {
+        "Position name": "Дабл Фиш Роллы",
+        "Position description": "8шт. РИС, НОРИ, ЛОСОСЬ СВЕЖИЙ, УГОРЬ, СЫР СЛИВОЧНЫЙ,  КУНЖУТ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/408.jpg"
+    },
+    {
+        "Position name": "Крабс Роллы",
+        "Position description": "8шт. РИС, НОРИ, ИКРА ТОБИКО, СЫР СЛИВОЧНЫЙ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ). С набором для роллов!",
+        "Position price": "340руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/407.jpg"
+    },
+    {
+        "Position name": "Стрипсы Куриные",
+        "Position description": "Сочная, нежная курица в хрустящей панировке. Попробуйте стрипсы из 100% белого мяса!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/406.jpg"
+    },
+    {
+        "Position name": "Чеснок",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "5руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/405.jpg"
+    },
+    {
+        "Position name": "Помидоры",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "30руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/404.jpg"
+    },
+    {
+        "Position name": "Халапеньо",
+        "Position description": "Острый. Дополнительная порция для пиццы.",
+        "Position price": "25руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/403.jpg"
+    }
+][
+    {
+        "Position name": "Перец болгарский",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "25руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/402.jpg"
+    },
+    {
+        "Position name": "Оливки",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "20руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/401.jpg"
+    },
+    {
+        "Position name": "Огурчики маринованные",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "20руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/4/400.jpg"
+    },
+    {
+        "Position name": "Морковь по-корейски",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "20руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/399.jpg"
+    },
+    {
+        "Position name": "Лук Фиолетовый марин.",
+        "Position description": "Лук Фиолетовый маринованный в лимоне. Дополнительная порция для пиццы.",
+        "Position price": "10руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/398.jpg"
+    },
+    {
+        "Position name": "Укроп",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "5руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/396.jpg"
+    },
+    {
+        "Position name": "Шампиньоны",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "30руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/395.jpg"
+    },
+    {
+        "Position name": "Ананас",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "25руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/394.jpg"
+    },
+    {
+        "Position name": "Семга",
+        "Position description": "Дополнительная порция для пиццы. Слабосоленая.",
+        "Position price": "95руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/393.jpg"
+    },
+    {
+        "Position name": "Морской коктейль",
+        "Position description": "Дополнительная порция для пиццы. Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки.",
+        "Position price": "55руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/392.jpg"
+    },
+    {
+        "Position name": "Креветки",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "65руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/391.jpg"
+    },
+    {
+        "Position name": "Крабовое мясо",
+        "Position description": "Дополнительная порция для пиццы. (из мяса сурими)",
+        "Position price": "35руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/390.jpg"
+    },
+    {
+        "Position name": "Кальмар копченый",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "45руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/389.jpg"
+    },
+    {
+        "Position name": "Кальмар свежий",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "40руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/388.jpg"
+    },
+    {
+        "Position name": "Фарш говяжий",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "40руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/387.jpg"
+    },
+    {
+        "Position name": "Сосиски копченые",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "40руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/386.jpg"
+    },
+    {
+        "Position name": "Свинина запеченная",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "45руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/385.jpg"
+    },
+    {
+        "Position name": "Салями",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "55руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/384.jpg"
+    },
+    {
+        "Position name": "Пепперони",
+        "Position description": "Острая. Дополнительная порция для пиццы.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/383.jpg"
+    },
+    {
+        "Position name": "Курица копченая",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "35руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/382.jpg"
+    },
+    {
+        "Position name": "Куриные грудки",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "45руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/381.jpg"
+    },
+    {
+        "Position name": "Сервелат",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "30руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/380.jpg"
+    },
+    {
+        "Position name": "Карбонад",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "40руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/379.jpg"
+    },
+    {
+        "Position name": "Ветчина",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "30руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/378.jpg"
+    },
+    {
+        "Position name": "Бекон",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "45руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/377.jpg"
+    },
+    {
+        "Position name": "Бастурма",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "65руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/376.jpg"
+    },
+    {
+        "Position name": "Сыр Моцарелла",
+        "Position description": "Дополнительная порция для пиццы.",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/375.jpg"
+    },
+    {
+        "Position name": "Красный соус(контейнер 100г)",
+        "Position description": "Порция соуса в пластиковом контейнере 100г",
+        "Position price": "80руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/374.jpg"
+    },
+    {
+        "Position name": "Красный соус(контейнер 50г)",
+        "Position description": "Порция соуса в пластиковом контейнере 50г",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/373.jpg"
+    },
+    {
+        "Position name": "Красный соус в пиццу",
+        "Position description": "Добавляется в пиццу на стадии приготовления.",
+        "Position price": "30руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/372.jpg"
+    },
+    {
+        "Position name": "Белый соус(контейнер 100г)",
+        "Position description": "Порция соуса в пластиковом контейнере 100г",
+        "Position price": "80руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/371.jpg"
+    },
+    {
+        "Position name": "Белый соус(контейнер 50г)",
+        "Position description": "Порция соуса в пластиковом контейнере 50г",
+        "Position price": "50руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/370.jpg"
+    },
+    {
+        "Position name": "Белый соус в пиццу",
+        "Position description": "Добавляется в пиццу на стадии приготовления.",
+        "Position price": "30руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/369.jpg"
+    },
+    {
+        "Position name": "СЕТ №14 - 80шт",
+        "Position description": "80шт - КАЛИФОРНИЯ С УГРЕМ, КАЛЬМАР КОПЧ., КАЛИФОРНИЯ В КУНЖУТЕ, СПАЙС ЧИКЕН, СЛИВОЧНЫЙ ЛОСОСЬ, ЖЕМЧУЖИНА, ПАТРИК, ФИЛАДЕЛЬФИЯ, КАМЧАТКА, МЕХИКО. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "3480руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/368.jpg"
+    },
+    {
+        "Position name": "СЕТ №13 - 64шт",
+        "Position description": "64шт - КАЛИФОРНИЯ С ЛОСОСЕМ, ПАТРИК, ФИЛАДЕЛЬФИЯ, СПАЙС ЧИКЕН, САНСЕЙ, КАМЧАТКА,ЧИКЕН ЧИЗ, МЕХИКО. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "2680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/367.jpg"
+    },
+    {
+        "Position name": "СЕТ №12 - 64шт",
+        "Position description": "64шт - КАЛИФОРНИЯ С КРАБОМ, КАЛЬМАР КОПЧ., ЛЕТО, СЫРНЫЕ, ЖЕМЧУЖИНА, НЕЖНЫЕ, УГОРЬ, ОСТРЫЕ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "2650руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/366.jpg"
+    },
+    {
+        "Position name": "СЕТ №11 - 36шт",
+        "Position description": "36шт - КРЕВЕТКА ЛАЙТ, ХОТ ОГУРЕЦ, УГОРЬ ЛАЙТ, КРАБ ЛАЙТ, ХОТ ЧИЗ, ХОТ ФИШ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1340руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/365.jpg"
+    },
+    {
+        "Position name": "СЕТ №10 - 36шт",
+        "Position description": "36шт - ЛОСОСЬ ЛАЙТ, ХОТ АВОКАДО, ОГУРЕЦ ЛАЙТ, ХОТ КРАБ, ЧИЗ ЛАЙТ, ХОТ ФИШ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/363.jpg"
+    },
+    {
+        "Position name": "СЕТ №9 - 40шт",
+        "Position description": "40шт - КАЛИФОРНИЯ С УГРЕМ, НЕЖНЫЕ, КАЛИФОРНИЯ В КУНЖУТЕ, САНСЕЙ, ЧИКЕН ЧИЗ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1700руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/362.jpg"
+    },
+    {
+        "Position name": "СЕТ №8 - 40шт",
+        "Position description": "40шт - КАЛИФОРНИЯ С ЛОСОСЕМ, СПАЙС ЧИКЕН, КАЛИФОРНИЯ С КРЕВЕТКОЙ, КАМЧАТКА, МЕХИКО. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1700руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/361.jpg"
+    }
+][
+    {
+        "Position name": "СЕТ №7 - 40шт",
+        "Position description": "40шт - КАЛИФОРНИЯ С КРАБОМ, ОСТРЫЙ, ЖЕМЧУЖИНА, ПАТРИК, ФИЛАДЕЛЬФИЯ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1680руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/360.jpg"
+    },
+    {
+        "Position name": "СЕТ №6 - 40шт",
+        "Position description": "40шт - ЛЕТО, СЫРНЫЕ, УГОРЬ, КАЛЬМАР КОПЧ., СЛИВОЧНЫЙ ЛОСОСЬ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/359.jpg"
+    },
+    {
+        "Position name": "СЕТ №5 - 32шт",
+        "Position description": "32шт. СПАЙС ЧИКЕН, УГОРЬ, КАЛИФОРНИЯ В КУНЖУТЕ, СЛИВОЧНЫЙ ЛОСОСЬ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1340руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/358.jpg"
+    },
+    {
+        "Position name": "СЕТ №4 - 32шт",
+        "Position description": "32шт. КАМЧАТКА, МЕХИКО, КАЛИФОРНИЯ С ЛОСОСЕМ, КАЛИФОРНИЯ С УГРЕМ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1460руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/357.jpg"
+    },
+    {
+        "Position name": "СЕТ №3 - 32шт",
+        "Position description": "32шт. ОСТРЫЕ, САНСЕЙ, ЧИКЕН ЧИЗ, КАЛИФОРНИЯ С ЛОСОСЕМ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1340руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/356.jpg"
+    },
+    {
+        "Position name": "СЕТ №2 - 32шт",
+        "Position description": "32шт. ЛЕТО, СЫРНЫЕ, ФИЛАДЕЛЬФИЯ, НЕЖНЫЕ. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1410руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/355.jpg"
+    },
+    {
+        "Position name": "СЕТ №1 - 32шт",
+        "Position description": "32шт - КАЛИФОРНИЯ С КРАБОМ, КАЛЬМАР КОПЧ., ЖЕМЧУЖИНА, ПАТРИК. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1380руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/354.jpg"
+    },
+    {
+        "Position name": "СЕТ ЗАПЕЧЕННЫЕ ЛАЙТ - 30шт",
+        "Position description": "30шт - ХОТ ОГУРЕЦ, ХОТ ЧИЗ, ХОТ АВОКАДО, ХОТ КРАБ, ХОТ КРЕВЕТКА. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1020руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/353.jpg"
+    },
+    {
+        "Position name": "СЕТ ЗАПЕЧЕННЫЕ - 40шт",
+        "Position description": "40шт - ПАТРИК, ОСТРЫЙ, КАМЧАТКА, НЕЖНЫЕ, СПАЙС ЧИКЕН. (Соус, Имбирь, Васаби, Палочки - в комплекте!)",
+        "Position price": "1700руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/352.jpg"
+    },
+    {
+        "Position name": "Чикен Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, КУРОЧКА КОПЧЕНАЯ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/351.jpg"
+    },
+    {
+        "Position name": "Чиз Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, СЫР СЛИВОЧНЫЙ. С набором для роллов!",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/350.jpg"
+    },
+    {
+        "Position name": "Фиш Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, ЛОСОСЬ СЛАБОСОЛЕНЫЙ. С набором для роллов!",
+        "Position price": "260руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/349.jpg"
+    },
+    {
+        "Position name": "Угорь Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, УГОРЬ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "260руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/348.jpg"
+    },
+    {
+        "Position name": "Огурец Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, ОГУРЕЦ. С набором для роллов!",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/347.jpg"
+    },
+    {
+        "Position name": "Лосось Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, ЛОСОСЬ СВЕЖИЙ. С набором для роллов!",
+        "Position price": "260руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/346.jpg"
+    },
+    {
+        "Position name": "Креветка Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, КРЕВЕТКА. С набором для роллов!",
+        "Position price": "260руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/345.jpg"
+    },
+    {
+        "Position name": "Краб Лайт Роллы",
+        "Position description": "6шт РИС, НОРИ, КРАБОВОЕ МЯСО (ИЗ МЯСА СУРИМИ). С набором для роллов!",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/344.jpg"
+    },
+    {
+        "Position name": "Хот Чикен Роллы",
+        "Position description": "6шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, КУРОЧКА КОПЧЕНАЯ, СОУС УНАГИ. ШАПКА: МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/343.jpg"
+    },
+    {
+        "Position name": "Хот Чиз Роллы",
+        "Position description": "6шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, СЫР СЛИВОЧНЫЙ, СОУС УНАГИ. ШАПКА: МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "250руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/342.jpg"
+    },
+    {
+        "Position name": "Хот Фиш Роллы",
+        "Position description": "6шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ЛОСОСЬ СОЛЕНЫЙ, СОУС УНАГИ. ШАПКА: МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/341.jpg"
+    },
+    {
+        "Position name": "Хот Угорь Роллы",
+        "Position description": "6шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, УГОРЬ, СОУС УНАГИ. ШАПКА: МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/340.jpg"
+    },
+    {
+        "Position name": "Хот Огурец Роллы",
+        "Position description": "6шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ОГУРЕЦ, СОУС УНАГИ. ШАПКА: МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "210руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/339.jpg"
+    },
+    {
+        "Position name": "Хот Лосось Роллы",
+        "Position description": "6шт. (ЗАПЕЧЕННЫЕ) НОРИ, ЛОСОСЬ СВЕЖИЙ, СОУС УНАГИ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/338.jpg"
+    },
+    {
+        "Position name": "Хот Креветка Роллы",
+        "Position description": "6шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, КРЕВЕТКИ, СОУС УНАГИ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "300руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/337.jpg"
+    },
+    {
+        "Position name": "Хот Краб Роллы",
+        "Position description": "6шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, КРАБОВОЕ МЯСО (ИЗ МЯСА СУРИМИ), СОУС УНАГИ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "210руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/336.jpg"
+    },
+    {
+        "Position name": "Хот Авокадо Роллы",
+        "Position description": "6шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, АВОКАДО, СОУС УНАГИ. ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "210руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/335.jpg"
+    },
+    {
+        "Position name": "Сырные Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ОГУРЕЦ, СЫР СЛИВОЧНЫЙ, УГОРЬ, КУНЖУТ, СОУС УНАГИ.  ШАПКА: СЫР МОЦАРЕЛЛА, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/334.jpg"
+    },
+    {
+        "Position name": "Спайс Чикен Роллы",
+        "Position description": "8шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, КУРОЧКА КОПЧЕНАЯ, ПОМИДОР. ШАПКА: МЯСО КРАБА (ИЗ МЯСА СУРИМИ), МАЙОНЕЗ, ОСТРЫЙ СОУС. С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/333.jpg"
+    },
+    {
+        "Position name": "Патрик Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ОГУРЕЦ, СЫР СЛИВОЧНЫЙ, СОУС УНАГИ.  ШАПКА: ЛОСОСЬ СВЕЖИЙ, МАЙОНЕЗ, ИКРА ТОБИКО. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/332.jpg"
+    },
+    {
+        "Position name": "Острые Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, АВОКАДО, СЫР СЛИВОЧНЫЙ. ШАПКА: МЯСО КРАБА (ИМИТАЦИЯ), МАЙОНЕЗ, ОСТРЫЙ СОУС. С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/331.jpg"
+    },
+    {
+        "Position name": "Нежные Роллы",
+        "Position description": "8шт (ЗАПЕЧЕННЫЕ) РИС, НОРИ, ОГУРЕЦ, ЛОСОСЬ СВЕЖИЙ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ), КУНЖУТ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/330.jpg"
+    },
+    {
+        "Position name": "Чикен Чиз Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, КУРОЧКА КОПЧЕНАЯ, ОГУРЕЦ. С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/329.jpg"
+    },
+    {
+        "Position name": "Филадельфия Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ,  ОГУРЕЦ,  ЛОСОСЬ СВЕЖИЙ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/328.jpg"
+    },
+    {
+        "Position name": "Угорь Роллы",
+        "Position description": "8шт РИС, НОРИ, АВОКАДО, СЫР СЛИВОЧНЫЙ,  УГОРЬ, КУНЖУТ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/327.jpg"
+    },
+    {
+        "Position name": "Лето Роллы",
+        "Position description": "8шт. РИС, НОРИ, ОГУРЕЦ, СЫР СЛИВОЧНЫЙ,  ПОМИДОР,  ПЕКИНСКАЯ КАПУСТА, ЛОСОСЬ СВЕЖИЙ, УКРОП. С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/326.jpg"
+    },
+    {
+        "Position name": "Калифорния с Угрем Роллы",
+        "Position description": "8шт. РИС, НОРИ, АВОКАДО, ИКРА ТОБИКО, ОГУРЕЦ, МАЙОНЕЗ, УГОРЬ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/325.jpg"
+    },
+    {
+        "Position name": "Калифорния в Кунжуте Роллы",
+        "Position description": "8шт. РИС, НОРИ, АВОКАДО, КУНЖУТ, ОГУРЕЦ, МАЙОНЕЗ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ). С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/324.jpg"
+    },
+    {
+        "Position name": "Сливочный Лосось Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, ЛОСОСЬ СЛАБОСОЛЕНЫЙ, ИКРА ТОБИКО. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/323.jpg"
+    },
+    {
+        "Position name": "Сансей Роллы",
+        "Position description": "8шт. РИС, НОРИ, АВОКАДО, КУНЖУТ, УГОРЬ, СЫР СЛИВОЧНЫЙ, СОУС УНАГИ. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/322.jpg"
+    },
+    {
+        "Position name": "Мехико Роллы",
+        "Position description": "8шт. РИС, НОРИ, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ, КРЕВЕТКИ, ИКРА ТОБИКО. С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/321.jpg"
+    }
+][
+    {
+        "Position name": "Калифорния с Лососем Роллы",
+        "Position description": "8шт. РИС, НОРИ, АВОКАДО, ИКРА ТОБИКО, ОГУРЕЦ, МАЙОНЕЗ, ЛОСОСЬ СВЕЖИЙ. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/320.jpg"
+    },
+    {
+        "Position name": "Калифорния с Креветкой Роллы",
+        "Position description": "8шт. РИС, НОРИ, АВОКАДО, ИКРА ТОБИКО, ОГУРЕЦ, МАЙОНЕЗ, КРЕВЕТКИ. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/319.jpg"
+    },
+    {
+        "Position name": "Калифорния с Крабом Роллы",
+        "Position description": "8шт. РИС, НОРИ, АВОКАДО, ИКРА ТОБИКО, ОГУРЕЦ, МАЙОНЕЗ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ). С набором для роллов!",
+        "Position price": "290руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/318.jpg"
+    },
+    {
+        "Position name": "Камчатка Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, АВОКАДО, СЫР СЛИВОЧНЫЙ, КРАБОВОЕ МЯСО. ШАПКА: ЛОСОСЬ СВЕЖИЙ, МАЙОНЕЗ, ИКРА ТОБИКО. С набором для роллов!",
+        "Position price": "390руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/317.jpg"
+    },
+    {
+        "Position name": "Кальмар Копченый Роллы",
+        "Position description": "8шт. (ЗАПЕЧЕННЫЕ) РИС, НОРИ, СЫР СЛИВОЧНЫЙ,  ОГУРЕЦ.   ШАПКА: ИКРА ТОБИКО, КАЛЬМАР  КОПЧЕНЫЙ, МАЙОНЕЗ. С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/316.jpg"
+    },
+    {
+        "Position name": "Яблочный Сок 1л",
+        "Position description": "Сок \"Добрый\" - Яблочный 1л.",
+        "Position price": "150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/314.jpg"
+    },
+    {
+        "Position name": "Мультифрукт Сок 1л",
+        "Position description": "Сок \"Добрый\" - Мультифрукт 1л.",
+        "Position price": "150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/308.jpg"
+    },
+    {
+        "Position name": "Кока-Кола 0,9л",
+        "Position description": "\"Кока-Кола\" 0,9л. Пластиковая бутылка.",
+        "Position price": "150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/306.jpg"
+    },
+    {
+        "Position name": "Жемчужина Роллы",
+        "Position description": "8шт РИС, НОРИ, АВОКАДО, СЫР СЛИВОЧНЫЙ, ОГУРЕЦ, КУНЖУТ, КРЕВЕТКИ, МЯСО КРАБА (ИЗ МЯСА СУРИМИ). С набором для роллов!",
+        "Position price": "370руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/303.jpg"
+    },
+    {
+        "Position name": "Авокадо Лайт Роллы",
+        "Position description": "6шт. РИС, НОРИ, АВОКАДО. С набором для роллов!",
+        "Position price": "180руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/302.jpg"
+    },
+    {
+        "Position name": "Голяшки Куриные",
+        "Position description": "Голяшки Куриные 210гр, Без Соуса!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/301.jpg"
+    },
+    {
+        "Position name": "Наггетсы Куриные",
+        "Position description": "Сочная, нежная курица в хрустящей панировке. Попробуйте стрипсы из 100% белого мяса!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/3/300.jpg"
+    },
+    {
+        "Position name": "Картофель Фри",
+        "Position description": "Картофель Фри 150г",
+        "Position price": "150руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/299.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Ветчина-Грибы",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/278.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Деревенская",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/277.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Дачная",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/276.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Жар Птица",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/275.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Нежность",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/273.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Острая",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/272.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Пепперони",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/271.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Мясная",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/270.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Любовь-Морковь",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/268.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Морепродукты",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/267.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца МАСТЕР",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/266.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Сырная",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/265.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Маргарита",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/264.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Вегетарианская",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/263.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Римские Каникулы",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/262.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Пикантная",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/261.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Флоренция",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/260.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Венеция",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/259.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Тропическая",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/258.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Фермерская",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/257.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Ветчина-Помидоры",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/255.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Восточная",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/254.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Гавайская",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/253.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Калифорния",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/252.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Карбонара",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/251.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Корсика",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/250.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Ганноверская",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/249.jpg"
+    }
+][
+    {
+        "Position name": "Ролл-Пицца Казачья",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/248.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Домашняя",
+        "Position description": "Сыр Мацарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/246.jpg"
+    },
+    {
+        "Position name": "Ролл-Пицца Европейская",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "220руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/245.jpg"
+    },
+    {
+        "Position name": "Комбонабор 8",
+        "Position description": "В Комбонабор 8 входит пицца 40см \"ТОРОНТО\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/244.jpg"
+    },
+    {
+        "Position name": "Комбонабор 7",
+        "Position description": "В Комбонабор 7 входит пицца 40см \"ВЕРОНА\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/243.jpg"
+    },
+    {
+        "Position name": "Комбонабор 6",
+        "Position description": "В Комбонабор 6 входит пицца 40см \"ДАРЫ МОРЯ\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/242.jpg"
+    },
+    {
+        "Position name": "Комбонабор 5",
+        "Position description": "В Комбонабор 5 входит пицца 40см \"ПОЛО\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/241.jpg"
+    },
+    {
+        "Position name": "Комбонабор 4",
+        "Position description": "В Комбонабор 4 входит пицца 40см \"ФИЕСТА\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/240.jpg"
+    },
+    {
+        "Position name": "Комбонабор 3",
+        "Position description": "В Комбонабор 3 входит пицца 40см \"ЧИКАГО\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/239.jpg"
+    },
+    {
+        "Position name": "Комбонабор 2",
+        "Position description": "В Комбонабор 2 входит пицца 40см \"ЛУЧАНО ПЕППЕРОНИ\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/238.jpg"
+    },
+    {
+        "Position name": "Комбонабор 1",
+        "Position description": "В Комбонабор 1 входит пицца 40см \"МИЛАН\" и 1.5л Апельсиновый газ. напиток",
+        "Position price": "910руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/234.jpg"
+    },
+    {
+        "Position name": "Половинка Деревенская 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/229.jpg"
+    },
+    {
+        "Position name": "Половинка Дачная 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/228.jpg"
+    },
+    {
+        "Position name": "Половинка Жар Птица 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/227.jpg"
+    },
+    {
+        "Position name": "Половинка Морская Царевна 40см",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Кальмар Копченый, Кальмар, Лук Маринованный (в лимоне), Помидоры, Маслины Кольца.",
+        "Position price": "725руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/226.jpg"
+    },
+    {
+        "Position name": "Половинка Нежность 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/225.jpg"
+    },
+    {
+        "Position name": "Половинка Острая 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/224.jpg"
+    },
+    {
+        "Position name": "Половинка Пепперони 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/223.jpg"
+    },
+    {
+        "Position name": "Половинка Мясная 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/222.jpg"
+    },
+    {
+        "Position name": "Половинка Летучая Рыба 40см",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "600руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/221.jpg"
+    },
+    {
+        "Position name": "Половинка Любовь-Морковь 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/220.jpg"
+    },
+    {
+        "Position name": "Половинка Морепродукты 40см",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/219.jpg"
+    },
+    {
+        "Position name": "Половинка МАСТЕР 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/218.jpg"
+    },
+    {
+        "Position name": "Половинка Сырная 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/216.jpg"
+    },
+    {
+        "Position name": "Половинка Маргарита 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/215.jpg"
+    },
+    {
+        "Position name": "Половинка Вегетарианская 40см",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/214.jpg"
+    },
+    {
+        "Position name": "Половинка Римские Каникулы 40см",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/213.jpg"
+    },
+    {
+        "Position name": "Половинка Пикантная 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/212.jpg"
+    },
+    {
+        "Position name": "Половинка Флоренция 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/211.jpg"
+    },
+    {
+        "Position name": "Половинка Венеция 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/210.jpg"
+    },
+    {
+        "Position name": "Половинка Тропическая 40см",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/209.jpg"
+    },
+    {
+        "Position name": "Половинка Фермерская 40 см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/208.jpg"
+    },
+    {
+        "Position name": "Половинка Ветчина-Грибы 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/207.jpg"
+    },
+    {
+        "Position name": "Половинка Ветчина-Помидоры 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/206.jpg"
+    },
+    {
+        "Position name": "Половинка Восточная 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/205.jpg"
+    },
+    {
+        "Position name": "Половинка Гавайская 40см",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/204.jpg"
+    },
+    {
+        "Position name": "Половинка Калифорния 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/203.jpg"
+    },
+    {
+        "Position name": "Половинка Карбонара 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/202.jpg"
+    },
+    {
+        "Position name": "Половинка Корсика 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/201.jpg"
+    },
+    {
+        "Position name": "Половинка Ганноверская 40см",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/2/200.jpg"
+    }
+][
+    {
+        "Position name": "Половинка Казачья 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/199.jpg"
+    },
+    {
+        "Position name": "Половинка Дальневосточная 40см",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Креветки, Помидоры, Зелень. ЭТА ПИЦЦА В АКЦИИ \"БИТВА ВКУСОВ\" НЕ УЧАСТВУЕТ!",
+        "Position price": "725руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/198.jpg"
+    },
+    {
+        "Position name": "Половинка Домашняя 40см",
+        "Position description": "Сыр Мацарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/197.jpg"
+    },
+    {
+        "Position name": "Половинка Европейская 40см",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "495руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/196.jpg"
+    },
+    {
+        "Position name": "Пицца Деревенская 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/195.jpg"
+    },
+    {
+        "Position name": "Пицца Дачная 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/194.jpg"
+    },
+    {
+        "Position name": "Пицца Жар Птица 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/193.jpg"
+    },
+    {
+        "Position name": "Пицца Европейская 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/192.jpg"
+    },
+    {
+        "Position name": "Пицца Домашняя 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/191.jpg"
+    },
+    {
+        "Position name": "Пицца Дальневосточная 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Креветки, Помидоры, Зелень. ЭТА ПИЦЦА В АКЦИИ \"БИТВА ВКУСОВ\" НЕ УЧАСТВУЕТ!",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/190.jpg"
+    },
+    {
+        "Position name": "Пицца Казачья 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/189.jpg"
+    },
+    {
+        "Position name": "Пицца Ганноверская 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/188.jpg"
+    },
+    {
+        "Position name": "Пицца Корсика 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/187.jpg"
+    },
+    {
+        "Position name": "Пицца Карбонара 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/186.jpg"
+    },
+    {
+        "Position name": "Пицца Калифорния 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/185.jpg"
+    },
+    {
+        "Position name": "Пицца Гавайская 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/184.jpg"
+    },
+    {
+        "Position name": "Пицца Восточная 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/183.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Помидоры 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/182.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Грибы 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/181.jpg"
+    },
+    {
+        "Position name": "Пицца Фермерская 40 см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/180.jpg"
+    },
+    {
+        "Position name": "Пицца Тропическая 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/179.jpg"
+    },
+    {
+        "Position name": "Пицца Флоренция 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/178.jpg"
+    },
+    {
+        "Position name": "Пицца Венеция 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/177.jpg"
+    },
+    {
+        "Position name": "Пицца Пикантная 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/176.jpg"
+    },
+    {
+        "Position name": "Пицца Римские Каникулы 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/175.jpg"
+    },
+    {
+        "Position name": "Пицца Вегетарианская 40см Тонкое",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/174.jpg"
+    },
+    {
+        "Position name": "Пицца Маргарита 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/173.jpg"
+    },
+    {
+        "Position name": "Пицца Сырная 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/172.jpg"
+    },
+    {
+        "Position name": "Пицца Мастер и Маргарита 40см Тонкое",
+        "Position description": "(50% Мастер и 50% Маргарита)  Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/171.jpg"
+    },
+    {
+        "Position name": "Пицца МАСТЕР 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/170.jpg"
+    },
+    {
+        "Position name": "Пицца Морепродукты 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/169.jpg"
+    },
+    {
+        "Position name": "Пицца Любовь-Морковь 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/168.jpg"
+    },
+    {
+        "Position name": "Пицца Летучая Рыба 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "850руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/167.jpg"
+    },
+    {
+        "Position name": "Пицца Мясная 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/166.jpg"
+    },
+    {
+        "Position name": "Пицца Пепперони 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/165.jpg"
+    },
+    {
+        "Position name": "Пицца Острая 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/164.jpg"
+    },
+    {
+        "Position name": "Пицца Нежность 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "730руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/163.jpg"
+    },
+    {
+        "Position name": "Пицца Морская Царевна 40см Тонкое",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Кальмар Копченый, Кальмар, Лук Маринованный (в лимоне), Помидоры, Маслины Кольца.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/162.jpg"
+    },
+    {
+        "Position name": "Пицца Деревенская 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/129.jpg"
+    },
+    {
+        "Position name": "Пицца Дачная 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/128.jpg"
+    }
+][
+    {
+        "Position name": "Пицца Жар Птица 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/127.jpg"
+    },
+    {
+        "Position name": "Пицца Европейская 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/126.jpg"
+    },
+    {
+        "Position name": "Пицца Домашняя 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/125.jpg"
+    },
+    {
+        "Position name": "Пицца Дальневосточная 40см Среднее",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Креветки, Помидоры, Зелень. ЭТА ПИЦЦА В АКЦИИ \"БИТВА ВКУСОВ\" НЕ УЧАСТВУЕТ!",
+        "Position price": "1020руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/124.jpg"
+    },
+    {
+        "Position name": "Пицца Казачья 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/123.jpg"
+    },
+    {
+        "Position name": "Пицца Ганноверская 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/122.jpg"
+    },
+    {
+        "Position name": "Пицца Корсика 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/121.jpg"
+    },
+    {
+        "Position name": "Пицца Карбонара 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/120.jpg"
+    },
+    {
+        "Position name": "Пицца Калифорния 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/119.jpg"
+    },
+    {
+        "Position name": "Пицца Гавайская 40см Среднее",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/118.jpg"
+    },
+    {
+        "Position name": "Пицца Восточная 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/117.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Помидоры 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/116.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Грибы 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/115.jpg"
+    },
+    {
+        "Position name": "Пицца Фермерская 40 см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/114.jpg"
+    },
+    {
+        "Position name": "Пицца Тропическая 40см Среднее",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/113.jpg"
+    },
+    {
+        "Position name": "Пицца Флоренция 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/112.jpg"
+    },
+    {
+        "Position name": "Пицца Венеция 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/111.jpg"
+    },
+    {
+        "Position name": "Пицца Пикантная 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/110.jpg"
+    },
+    {
+        "Position name": "Пицца Римские Каникулы 40см Среднее",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/109.jpg"
+    },
+    {
+        "Position name": "Пицца Вегетарианская 40см Среднее",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/108.jpg"
+    },
+    {
+        "Position name": "Пицца Маргарита 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/107.jpg"
+    },
+    {
+        "Position name": "Пицца Сырная 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/106.jpg"
+    },
+    {
+        "Position name": "Пицца Мастер и Маргарита 40см Среднее",
+        "Position description": "(50% Мастер и 50% Маргарита)  Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/105.jpg"
+    },
+    {
+        "Position name": "Пицца МАСТЕР 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/104.jpg"
+    },
+    {
+        "Position name": "Пицца Морепродукты 40см Среднее",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/103.jpg"
+    },
+    {
+        "Position name": "Пицца Любовь-Морковь 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/102.jpg"
+    },
+    {
+        "Position name": "Пицца Летучая Рыба 40см Среднее",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "900руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/101.jpg"
+    },
+    {
+        "Position name": "Пицца Мясная 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/1/100.jpg"
+    },
+    {
+        "Position name": "Пицца Пепперони 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/99.jpg"
+    },
+    {
+        "Position name": "Пицца Острая 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/98.jpg"
+    },
+    {
+        "Position name": "Пицца Нежность 40см Среднее",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/97.jpg"
+    },
+    {
+        "Position name": "Пицца Морская Царевна 40см Среднее",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Кальмар Копченый, Кальмар, Лук Маринованный (в лимоне), Помидоры, Маслины Кольца.",
+        "Position price": "1020руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/96.jpg"
+    },
+    {
+        "Position name": "Пицца Мясная 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/95.jpg"
+    },
+    {
+        "Position name": "Пицца Морская Царевна 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Кальмар Копченый, Кальмар, Лук Маринованный (в лимоне), Помидоры, Маслины Кольца.",
+        "Position price": "1450руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/94.jpg"
+    },
+    {
+        "Position name": "Пицца Пепперони 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/93.jpg"
+    },
+    {
+        "Position name": "Пицца Острая 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/92.jpg"
+    },
+    {
+        "Position name": "Пицца Нежность 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/91.jpg"
+    },
+    {
+        "Position name": "Пицца Морепродукты 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/90.jpg"
+    },
+    {
+        "Position name": "Пицца МАСТЕР 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/89.jpg"
+    },
+    {
+        "Position name": "Пицца Мастер и Маргарита 40см Традиционное",
+        "Position description": "(50% Мастер и 50% Маргарита)  Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/88.jpg"
+    }
+][
+    {
+        "Position name": "Пицца Маргарита 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/87.jpg"
+    },
+    {
+        "Position name": "Пицца Сырная 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/86.jpg"
+    },
+    {
+        "Position name": "Пицца Римские Каникулы 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/85.jpg"
+    },
+    {
+        "Position name": "Пицца Пикантная 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/84.jpg"
+    },
+    {
+        "Position name": "Пицца Флоренция 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/83.jpg"
+    },
+    {
+        "Position name": "Пицца Фермерская 40 см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/82.jpg"
+    },
+    {
+        "Position name": "Пицца Тропическая 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/81.jpg"
+    },
+    {
+        "Position name": "Пицца Деревенская 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/80.jpg"
+    },
+    {
+        "Position name": "Пицца Дачная 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/79.jpg"
+    },
+    {
+        "Position name": "Пицца Жар Птица 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/78.jpg"
+    },
+    {
+        "Position name": "Пицца Европейская 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/77.jpg"
+    },
+    {
+        "Position name": "Пицца Домашняя 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/76.jpg"
+    },
+    {
+        "Position name": "Пицца Дальневосточная 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Креветки, Помидоры, Зелень. ЭТА ПИЦЦА В АКЦИИ \"БИТВА ВКУСОВ\" НЕ УЧАСТВУЕТ!",
+        "Position price": "1450руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/75.jpg"
+    },
+    {
+        "Position name": "Пицца Казачья 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/74.jpg"
+    },
+    {
+        "Position name": "Пицца Ганноверская 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-Корейски.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/73.jpg"
+    },
+    {
+        "Position name": "Пицца Корсика 40см Традиционная",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/72.jpg"
+    },
+    {
+        "Position name": "Пицца Карбонара 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/71.jpg"
+    },
+    {
+        "Position name": "Пицца Калифорния 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/70.jpg"
+    },
+    {
+        "Position name": "Пицца Гавайская 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/69.jpg"
+    },
+    {
+        "Position name": "Пицца Восточная 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/68.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Помидоры 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/67.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Грибы 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/66.jpg"
+    },
+    {
+        "Position name": "Пицца Венеция 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/63.jpg"
+    },
+    {
+        "Position name": "Пицца Вегетарианская 40см Традиционное",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/59.jpg"
+    },
+    {
+        "Position name": "Пицца Любовь-Морковь 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "990руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/54.jpg"
+    },
+    {
+        "Position name": "Пицца Летучая Рыба 40см Традиционное",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "1200руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/53.jpg"
+    },
+    {
+        "Position name": "Пицца Флоренция 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/46.jpg"
+    },
+    {
+        "Position name": "Пицца Фермерская 30 см Традиционое",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Карбонад, Шампиньоны, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/45.jpg"
+    },
+    {
+        "Position name": "Пицца Тропическая 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Ветчина, Ананас Кусочки, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/44.jpg"
+    },
+    {
+        "Position name": "Пицца Сырная 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Зелень, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/43.jpg"
+    },
+    {
+        "Position name": "Пицца Римские Каникулы 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Салями, Шампиньоны, Карбонад, Помидоры, Перец Болгарский, Приправа Орегано.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/42.jpg"
+    },
+    {
+        "Position name": "Пицца Пикантная 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Баварские Колбаски, Куриные Грудки, Помидоры, Маслины Кольца.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/41.jpg"
+    },
+    {
+        "Position name": "Пицца Пепперони 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Острые Колбаски Пепперони.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/40.jpg"
+    },
+    {
+        "Position name": "Пицца Острая 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Острый Маринованный, Соус Спайси.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/39.jpg"
+    },
+    {
+        "Position name": "Пицца Нежность 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/38.jpg"
+    },
+    {
+        "Position name": "Пицца Мясная 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Фарш Говяжий Обжаренный, Шампиньоны, Перец Болгарский.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/37.jpg"
+    },
+    {
+        "Position name": "Пицца Морская Царевна 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Кальмар Копченый, Кальмар, Лук Маринованный (в лимоне), Помидоры, Маслины Кольца.",
+        "Position price": "890руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/36.jpg"
+    },
+    {
+        "Position name": "Пицца Морепродукты 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Мясо Мидий, Полоски Кальмара, Кусочки Осьминогов, Очищенные Креветки, Крабовое мясо(из мяса Сурими), Помидоры, Зелень.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/35.jpg"
+    },
+    {
+        "Position name": "Пицца МАСТЕР 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, сервелат, Шампиньоны, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/34.jpg"
+    },
+    {
+        "Position name": "Пицца Мастер и Маргарита 30см Традиционное",
+        "Position description": "(50% Мастер и 50% Маргарита)  Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/33.jpg"
+    }
+][
+    {
+        "Position name": "Пицца Маргарита 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные Грудки, Шампиньоны, Помидоры, Зелень.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/32.jpg"
+    },
+    {
+        "Position name": "Пицца Любовь-Морковь 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Ветчина, Морковь По-корейски.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/31.jpg"
+    },
+    {
+        "Position name": "Пицца Летучая Рыба 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Куриные Грудки, Помидоры, Зелень.",
+        "Position price": "790руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/30.jpg"
+    },
+    {
+        "Position name": "Пицца Корсика 30см Традиционная",
+        "Position description": "Сыр Моцарелла, Соус Белый, Куриные Грудки, Бекон, Чеснок, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/29.jpg"
+    },
+    {
+        "Position name": "Пицца Карбонара 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Карбонад, Бекон, Курица Копченая, Огурчики Маринованные, Шампиньоны.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/28.jpg"
+    },
+    {
+        "Position name": "Пицца Калифорния 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Лук Маринованный (в лимоне).",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/27.jpg"
+    },
+    {
+        "Position name": "Пицца Казачья 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Сервелат, Шампиньоны, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/26.jpg"
+    },
+    {
+        "Position name": "Пицца Жар Птица 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Курица Копченая, Шампиньоны, Оливки.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/25.jpg"
+    },
+    {
+        "Position name": "Пицца Европейская 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Карбонад, Ветчина, Сервелат, Куриные Грудки, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/24.jpg"
+    },
+    {
+        "Position name": "Пицца Домашняя 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Огурчики Маринованные, Специи, Оливки.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/23.jpg"
+    },
+    {
+        "Position name": "Пицца Деревенская 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Куриные грудки, Шампиньоны.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/22.jpg"
+    },
+    {
+        "Position name": "Пицца Вегетарианская 30см Традиционное",
+        "Position description": "Сыр Моцарелла , Соус Мастер, Шампиньоны, Помидоры, Перец Болгарский.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/12.jpg"
+    },
+    {
+        "Position name": "Пицца Венеция 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Сервелат.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/13.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Грибы 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Шампиньоны.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/14.jpg"
+    },
+    {
+        "Position name": "Пицца Ветчина-Помидоры 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Ветчина, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/15.jpg"
+    },
+    {
+        "Position name": "Пицца Восточная 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Мастер, Бастурма, Куриные Грудки, Шампиньоны, Помидоры.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/16.jpg"
+    },
+    {
+        "Position name": "Пицца Гавайская 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Куриные Грудки, Ананас, Помидоры, Перец Болгарский.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/17.jpg"
+    },
+    {
+        "Position name": "Пицца Ганноверская 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Сосиски Копченые, Куриные Грудки, Морковь По-корейски.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/18.jpg"
+    },
+    {
+        "Position name": "Пицца Дальневосточная 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Семга Дальневосточная, Креветки, Помидоры, Зелень. ЭТА ПИЦЦА В АКЦИИ \"БИТВА ВКУСОВ\" НЕ УЧАСТВУЕТ!",
+        "Position price": "890руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/19.jpg"
+    },
+    {
+        "Position name": "Пицца Дачная 30см Традиционное",
+        "Position description": "Сыр Моцарелла, Соус Белый, Свинина Запеченная, Шампиньоны, Помидоры, Оливки.",
+        "Position price": "660руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/20.jpg"
+    },
+    {
+        "Position name": "Куриные Крылышки",
+        "Position description": "Куриные Крылышки Запеченные Во Фритюре 250гр, Без Соуса!",
+        "Position price": "230руб.",
+        "Position picture": "https://pizzmaster.ru/_sh/00/21.jpg"
+    }
+]
